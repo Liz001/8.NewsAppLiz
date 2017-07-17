@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsAppLiz</string>
+
+    <string name="title">NEWS NEWS NEWS NEWS NEWS NEWS NEWS NEWS NEWS</string>
+    <string name="author">Elisa Mancino</string>
+    <string name="date">Jun 09, 2017</string>
+    <string name="section">Development</string>
+
+</resources>
